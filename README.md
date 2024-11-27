@@ -31,3 +31,5 @@ You will need docker installed.
 # Additional Configuration and Requirements
 
 You may want to consider adding some kind of authorization to this application.
+
+However I don't think it's necessary at the moment, as the function url generally has enough entropy to be secure by obscurity.
