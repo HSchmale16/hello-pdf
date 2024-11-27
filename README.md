@@ -9,8 +9,7 @@ This little application is powered by [pandoc][1] and debian in docker.
 
 # Why?
 
-I needed to make PDFs at work inside of Azure, but their cloudshell doesn't let you install any extra development tools.
-At least it gives you a couple more development tools and a larger fileshare, but not really because it's overall worse than AWS.
+I needed to make PDFs inside of Azure, but their cloudshell doesn't let you install any extra development tools.
 
 So might as well use AWS where things work properly the first time.
 
