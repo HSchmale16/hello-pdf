@@ -3,7 +3,7 @@
 A lambda function that lets you upload a markdown file and get a generated default pdf. 
 Made for wrangling stupid dependencies.
 
-This powered by [pandoc][1] and debian.
+This powered by [pandoc][1] and debian in docker.
 
 [1]: https://pandoc.org/
 
