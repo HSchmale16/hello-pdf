@@ -1,11 +1,12 @@
 # Hello PDF
 
-A lambda function that lets you upload a markdown file and get a generated default pdf. 
-
+A lambda function that lets you upload a markdown file and get a generated default pdf.
 
 This little application is powered by [pandoc][1] and debian in docker.
 
 [1]: https://pandoc.org/
+
+If you end up using this application please leave a STAR to say I'm using it and find this work valuable.
 
 # Why?
 
