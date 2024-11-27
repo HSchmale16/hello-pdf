@@ -1,7 +1,7 @@
 # Hello PDF
 
 A lambda function that lets you upload a markdown file and get a generated default pdf. 
-Made for wrangling stupid dependencies.
+
 
 This powered by [pandoc][1] and debian in docker.
 
@@ -14,10 +14,12 @@ At least it gives you a couple more development tools and a larger fileshare, bu
 
 So might as well use AWS where things work properly the first time.
 
+I'm not sure if this will work to include images in the markdown you upload, but that wasn't what I needed for a business requirement.
+
 
 # Deployment
 
-You will need docker installed.
+You will need docker installed to build this application and deploy it.
 
 1. You will create an ecr repo
 2. You will run docker login
