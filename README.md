@@ -1,5 +1,11 @@
 # Hello PDF
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![GitHub stars](https://img.shields.io/github/stars/hschmale16/hello-pdf.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/hschmale16/hello-pdf/stargazers/)
+
+
 A lambda function that lets you upload a markdown file and get a generated default pdf.
 
 This little application is powered by [pandoc][1] and debian in docker.
