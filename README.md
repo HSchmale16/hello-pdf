@@ -37,3 +37,5 @@ You may want to consider adding some kind of authorization to this application.
 However I don't think it's necessary at the moment, as the function url generally has enough entropy to be secure by obscurity.
 
 You may also want to use reserved concurrency to rate limit and protect yourself from being DDoS'd. It's meant for low traffic things.
+
+For further thoughts on this, please check out my [blog post](https://www.henryschmale.org/2024/11/26/hello-pdf.html).
